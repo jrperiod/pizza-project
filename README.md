@@ -2,3 +2,7 @@
 ## Love For Pizza
 
 My favorite pizza toppings are...
+
+* Cheese
+* Mushrooms
+* Olives!
