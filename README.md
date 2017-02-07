@@ -4,5 +4,8 @@
 My favorite pizza toppings are...
 
 * Cheese
+* Extra Cheese
 * Mushrooms
-* Olives!
+* Olives
+* Spinach
+* Banana Peppers
