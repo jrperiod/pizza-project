@@ -8,4 +8,3 @@ My favorite pizza toppings are...
 * Mushrooms
 * Olives
 * Spinach
-* Banana Peppers
